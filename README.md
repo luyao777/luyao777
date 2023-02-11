@@ -10,6 +10,17 @@
 
 # Waka Time
 <!--START_SECTION:waka-->
+
+```text
+From: 14 September 2021 - To: 10 February 2023
+
+Total Time: 598 hrs 31 mins
+
+Python             387 hrs 38 mins ████████████████▒░░░░░░░░   64.77 %
+Text               51 hrs 37 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+Other              35 hrs 35 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+```
+
 <!--END_SECTION:waka-->
 
 # Activity Graph
