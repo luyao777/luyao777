@@ -5,9 +5,6 @@
 <div align="center"><img src="https://raw.githubusercontent.com/luyao777/luyao777/main/assets/github-contribution-grid-snake.svg" ></div>
 
 
-
-
-
 # Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luyao777&theme=vue&bg_color=ffffff)](https://github.com/luyao777/github-readme-activity-graph)
 
