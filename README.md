@@ -20,6 +20,11 @@
 </div>
 
 <!-- START_SECTION:blog -->
+* <a href='https://www.cnblogs.com/nomornings/p/14832025.html' target='_blank'>[CVPR2021]Beyond Self-attention External Attention using Two Linear Layers for Visual Tasks - NoMornings</a> - 2021-05-31
+* <a href='https://www.cnblogs.com/nomornings/p/14805201.html' target='_blank'>[CIKM2019] AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks - NoMornings</a> - 2021-05-24
+* <a href='https://www.cnblogs.com/nomornings/p/14690253.html' target='_blank'>[IJCAI2017] Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks - NoMornings</a> - 2021-04-22
+* <a href='https://www.cnblogs.com/nomornings/p/14641405.html' target='_blank'>[SIGIR2020] Sequential Recommendation with Self-Attentive Multi-Adversarial Network - NoMornings</a> - 2021-04-10
+* <a href='https://www.cnblogs.com/nomornings/p/14228410.html' target='_blank'>推荐系统实践 0x13 Word2Vec - NoMornings</a> - 2021-01-04
 <!-- END_SECTION:blog -->
 
 # Streak Stats
