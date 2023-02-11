@@ -1,6 +1,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=%E5%90%AC%EF%BC%81+%E8%BF%99%E4%BA%9B%E4%BB%A3%E7%A0%81%E6%9C%89%E5%A3%B0%E9%9F%B3%EF%BC%81)](https://git.io/typing-svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luyao777/luyao777/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luyao777/luyao777/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luyao777/luyao777/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
 # Activity Graph
