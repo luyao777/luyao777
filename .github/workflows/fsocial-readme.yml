@@ -13,4 +13,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: zylele/social-readme@master
+        with:
           blog_rss_link: https://feed.cnblogs.com/blog/u/249615/rss/
