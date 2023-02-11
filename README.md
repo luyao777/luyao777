@@ -8,6 +8,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luyao777/luyao777/output/github-contribution-grid-snake.svg">
 </picture>
 
+# Waka Time
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 # Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luyao777&theme=vue&bg_color=ffffff)](https://github.com/luyao777/github-readme-activity-graph)
