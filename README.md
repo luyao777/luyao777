@@ -26,6 +26,11 @@
 * <a href='https://www.cnblogs.com/nomornings/p/14690253.html' target='_blank'>[IJCAI2017] Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks - NoMornings</a> - 2021-04-22
 * <a href='https://www.cnblogs.com/nomornings/p/14641405.html' target='_blank'>[SIGIR2020] Sequential Recommendation with Self-Attentive Multi-Adversarial Network - NoMornings</a> - 2021-04-10
 * <a href='https://www.cnblogs.com/nomornings/p/14228410.html' target='_blank'>推荐系统实践 0x13 Word2Vec - NoMornings</a> - 2021-01-04
+* <a href='https://www.cnblogs.com/nomornings/p/14170238.html' target='_blank'>推荐系统实践 0x12 Embedding - NoMornings</a> - 2020-12-21
+* <a href='https://www.cnblogs.com/nomornings/p/14155983.html' target='_blank'>推荐系统实践 0x11 NeuralCF - NoMornings</a> - 2020-12-18
+* <a href='https://www.cnblogs.com/nomornings/p/14149944.html' target='_blank'>推荐系统实践 0x10 Deep Crossing - NoMornings</a> - 2020-12-17
+* <a href='https://www.cnblogs.com/nomornings/p/14135345.html' target='_blank'>推荐系统实践 0x0f AutoRec - NoMornings</a> - 2020-12-14
+* <a href='https://www.cnblogs.com/nomornings/p/14116894.html' target='_blank'>推荐系统实践 0x0e LS-PLM - NoMornings</a> - 2020-12-10
 <!-- END_SECTION:blog -->
 
 # Streak Stats
