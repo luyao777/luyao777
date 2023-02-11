@@ -1,19 +1,16 @@
-
+Code is cheap, Show me the PPT. XD
 
 # 🍎: Who Am I
-Name: Yao Lu
-
-Hometown: WeiFang, Shandong Province in China
-
-Educational Experience
-
-Undergraduate(2014.09-2018.06): Computer Science and Technology, University of Electronic Science and Technology of China
-
-Postgraduate(2018.9-2021.06): Computer Application Technology, Renmin University of China
-
-Employment Experience:
-1. Tencent Holdings Limited
-2. Pinduoduo Inc.
+- Name: Yao Lu
+- Email: luyao777@vip.qq.com
+- Location: Shanghai in China
+- Hometown: Weifang, Shandong Province in China
+- Educational Experience：
+  - Undergraduate(2014.09-2018.06): Computer Science and Technology, University of Electronic Science and Technology of China
+  - Postgraduate(2018.9-2021.06): Computer Application Technology, Renmin University of China
+- Employment Experience:
+  1. Tencent Holdings Limited
+  2. Pinduoduo Inc.
 
 
 # 🐍 Commit Snake
