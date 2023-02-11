@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=%E5%90%AC%EF%BC%81+%E8%BF%99%E4%BA%9B%E4%BB%A3%E7%A0%81%E6%9C%89%E5%A3%B0%E9%9F%B3%EF%BC%81)](https://git.io/typing-svg)
 
 # Commit Snake
-<div align="center"><img src="https://raw.githubusercontent.com/luyao777/luyao777/main/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://raw.githubusercontent.com/luyao777/luyao777/main/assets/github-contribution-grid-snake.svg" ></div>
 
 
 # Activity Graph
