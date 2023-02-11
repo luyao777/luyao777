@@ -15,3 +15,4 @@ jobs:
       - uses: zylele/social-readme@master
         with:
           blog_rss_link: https://feed.cnblogs.com/blog/u/249615/rss/
+          blog_limit: 10
