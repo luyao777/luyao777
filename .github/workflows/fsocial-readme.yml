@@ -6,12 +6,12 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: luyao777/social-readme@master
+      - uses: luyao777/social-readme@main
         with:
           blog_rss_link: https://feed.cnblogs.com/blog/u/249615/rss/
