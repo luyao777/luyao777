@@ -46,6 +46,8 @@ Other              36 hrs 14 mins  █▒░░░░░░░░░░░░░
 
 # 📑 Recent Blog
 <!-- START_SECTION:blog -->
+* <a href='https://www.cnblogs.com/nomornings/p/17120124.html' target='_blank'>将博客搬至CSDN - NoMornings</a> - 2023-02-14
+* <a href='https://www.cnblogs.com/nomornings/p/17120025.html' target='_blank'>模型预处理层介绍（1） - Discretization - NoMornings</a> - 2023-02-14
 * <a href='https://www.cnblogs.com/nomornings/p/14832025.html' target='_blank'>[CVPR2021]Beyond Self-attention External Attention using Two Linear Layers for Visual Tasks - NoMornings</a> - 2021-05-31
 * <a href='https://www.cnblogs.com/nomornings/p/14805201.html' target='_blank'>[CIKM2019] AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks - NoMornings</a> - 2021-05-24
 * <a href='https://www.cnblogs.com/nomornings/p/14690253.html' target='_blank'>[IJCAI2017] Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks - NoMornings</a> - 2021-04-22
@@ -54,8 +56,6 @@ Other              36 hrs 14 mins  █▒░░░░░░░░░░░░░
 * <a href='https://www.cnblogs.com/nomornings/p/14170238.html' target='_blank'>推荐系统实践 0x12 Embedding - NoMornings</a> - 2020-12-21
 * <a href='https://www.cnblogs.com/nomornings/p/14155983.html' target='_blank'>推荐系统实践 0x11 NeuralCF - NoMornings</a> - 2020-12-18
 * <a href='https://www.cnblogs.com/nomornings/p/14149944.html' target='_blank'>推荐系统实践 0x10 Deep Crossing - NoMornings</a> - 2020-12-17
-* <a href='https://www.cnblogs.com/nomornings/p/14135345.html' target='_blank'>推荐系统实践 0x0f AutoRec - NoMornings</a> - 2020-12-14
-* <a href='https://www.cnblogs.com/nomornings/p/14116894.html' target='_blank'>推荐系统实践 0x0e LS-PLM - NoMornings</a> - 2020-12-10
 <!-- END_SECTION:blog -->
 
 # ⛰️ Streak Stats
