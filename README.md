@@ -46,6 +46,7 @@ Other              36 hrs 17 mins  █▒░░░░░░░░░░░░░
 
 # 📑 Recent Blog
 <!-- START_SECTION:blog -->
+* <a href='https://www.cnblogs.com/nomornings/p/17121125.html' target='_blank'>基于规则投资 - 相等头寸加权 - NoMornings</a> - 2023-02-14
 * <a href='https://www.cnblogs.com/nomornings/p/17120124.html' target='_blank'>将博客搬至CSDN - NoMornings</a> - 2023-02-14
 * <a href='https://www.cnblogs.com/nomornings/p/17120025.html' target='_blank'>模型预处理层介绍（1） - Discretization - NoMornings</a> - 2023-02-14
 * <a href='https://www.cnblogs.com/nomornings/p/14832025.html' target='_blank'>[CVPR2021]Beyond Self-attention External Attention using Two Linear Layers for Visual Tasks - NoMornings</a> - 2021-05-31
@@ -55,7 +56,6 @@ Other              36 hrs 17 mins  █▒░░░░░░░░░░░░░
 * <a href='https://www.cnblogs.com/nomornings/p/14228410.html' target='_blank'>推荐系统实践 0x13 Word2Vec - NoMornings</a> - 2021-01-04
 * <a href='https://www.cnblogs.com/nomornings/p/14170238.html' target='_blank'>推荐系统实践 0x12 Embedding - NoMornings</a> - 2020-12-21
 * <a href='https://www.cnblogs.com/nomornings/p/14155983.html' target='_blank'>推荐系统实践 0x11 NeuralCF - NoMornings</a> - 2020-12-18
-* <a href='https://www.cnblogs.com/nomornings/p/14149944.html' target='_blank'>推荐系统实践 0x10 Deep Crossing - NoMornings</a> - 2020-12-17
 <!-- END_SECTION:blog -->
 
 # ⛰️ Streak Stats
