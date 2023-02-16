@@ -23,13 +23,13 @@ Code is cheap, Show me the PPT. XD
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 September 2021 - To: 13 February 2023
+From: 14 September 2021 - To: 14 February 2023
 
-Total Time: 610 hrs 36 mins
+Total Time: 614 hrs
 
-Python             397 hrs 11 mins ████████████████▒░░░░░░░░   65.05 %
-Text               52 hrs 31 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-Other              36 hrs 17 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Python             399 hrs 41 mins ████████████████▒░░░░░░░░   65.10 %
+Text               52 hrs 31 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Other              36 hrs 17 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
 ```
 
 <!--END_SECTION:waka-->
