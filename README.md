@@ -1,4 +1,10 @@
-Code is cheap, Show me the PPT. XD
+Code is cheap, Show me the 🍌. XD
+
+🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌
+🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌
+🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌
+🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌
+🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌
 
 # 🍎: Who Am I
 - Name: Yao Lu
