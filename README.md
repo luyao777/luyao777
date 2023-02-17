@@ -52,7 +52,9 @@ Other              36 hrs 23 mins  █▒░░░░░░░░░░░░░
 
 # 📑 Recent Blog
 <!-- START_SECTION:blog -->
-* <a href='https://www.cnblogs.com/nomornings/p/17122159.html' target='_blank'>002-相等风险加权以及阿尔法驱动型加权 - NoMornings</a> - 2023-02-15
+* <a href='https://www.cnblogs.com/nomornings/p/17126747.html' target='_blank'>模型预处理层介绍（3） - IntegerLookup - NoMornings</a> - 2023-02-16
+* <a href='https://www.cnblogs.com/nomornings/p/17125791.html' target='_blank'>模型预处理层介绍（2） - Hashing - NoMornings</a> - 2023-02-16
+* <a href='https://www.cnblogs.com/nomornings/p/17122159.html' target='_blank'>002 - 相等风险加权以及阿尔法驱动型加权 - NoMornings</a> - 2023-02-15
 * <a href='https://www.cnblogs.com/nomornings/p/17121125.html' target='_blank'>001 - 基于规则投资 - 相等头寸加权 - NoMornings</a> - 2023-02-14
 * <a href='https://www.cnblogs.com/nomornings/p/17120124.html' target='_blank'>将博客搬至CSDN - NoMornings</a> - 2023-02-14
 * <a href='https://www.cnblogs.com/nomornings/p/17120025.html' target='_blank'>模型预处理层介绍（1） - Discretization - NoMornings</a> - 2023-02-14
@@ -60,8 +62,6 @@ Other              36 hrs 23 mins  █▒░░░░░░░░░░░░░
 * <a href='https://www.cnblogs.com/nomornings/p/14805201.html' target='_blank'>[CIKM2019] AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks - NoMornings</a> - 2021-05-24
 * <a href='https://www.cnblogs.com/nomornings/p/14690253.html' target='_blank'>[IJCAI2017] Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks - NoMornings</a> - 2021-04-22
 * <a href='https://www.cnblogs.com/nomornings/p/14641405.html' target='_blank'>[SIGIR2020] Sequential Recommendation with Self-Attentive Multi-Adversarial Network - NoMornings</a> - 2021-04-10
-* <a href='https://www.cnblogs.com/nomornings/p/14228410.html' target='_blank'>推荐系统实践 0x13 Word2Vec - NoMornings</a> - 2021-01-04
-* <a href='https://www.cnblogs.com/nomornings/p/14170238.html' target='_blank'>推荐系统实践 0x12 Embedding - NoMornings</a> - 2020-12-21
 <!-- END_SECTION:blog -->
 
 # ⛰️ Streak Stats
