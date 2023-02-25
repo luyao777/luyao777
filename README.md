@@ -52,6 +52,7 @@ Other              38 hrs 8 mins   █▒░░░░░░░░░░░░░
 
 # 📑 Recent Blog
 <!-- START_SECTION:blog -->
+* <a href='https://www.cnblogs.com/nomornings/p/17153145.html' target='_blank'># 009 - 检验 （2） - NoMornings</a> - 2023-02-24
 * <a href='https://www.cnblogs.com/nomornings/p/17149672.html' target='_blank'>007 - 研究 - NoMornings</a> - 2023-02-23
 * <a href='https://www.cnblogs.com/nomornings/p/17146471.html' target='_blank'>008 - 检验 （1） - NoMornings</a> - 2023-02-22
 * <a href='https://www.cnblogs.com/nomornings/p/17145950.html' target='_blank'>006 -  数据类型、来源和清洗 - NoMornings</a> - 2023-02-22
@@ -61,7 +62,6 @@ Other              38 hrs 8 mins   █▒░░░░░░░░░░░░░
 * <a href='https://www.cnblogs.com/nomornings/p/17126747.html' target='_blank'>模型预处理层介绍（3） - IntegerLookup - NoMornings</a> - 2023-02-16
 * <a href='https://www.cnblogs.com/nomornings/p/17125791.html' target='_blank'>模型预处理层介绍（2） - Hashing - NoMornings</a> - 2023-02-16
 * <a href='https://www.cnblogs.com/nomornings/p/17122159.html' target='_blank'>002 - 相等风险加权以及阿尔法驱动型加权 - NoMornings</a> - 2023-02-15
-* <a href='https://www.cnblogs.com/nomornings/p/17121125.html' target='_blank'>001 - 基于规则投资 - 相等头寸加权 - NoMornings</a> - 2023-02-14
 <!-- END_SECTION:blog -->
 
 # ⛰️ Streak Stats
