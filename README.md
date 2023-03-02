@@ -52,7 +52,9 @@ Other              40 hrs 27 mins  █▓░░░░░░░░░░░░░
 
 # 📑 Recent Blog
 <!-- START_SECTION:blog -->
-* <a href='https://www.cnblogs.com/nomornings/p/17158006.html' target='_blank'>量化交易基础 - 10 - 拟合 - NoMornings</a> - 2023-02-26
+* <a href='https://www.cnblogs.com/nomornings/p/17170751.html' target='_blank'>Tf2 ValueError: A merge layer should be called on a list of inputs - NoMornings</a> - 2023-03-02
+* <a href='https://www.cnblogs.com/nomornings/p/17169937.html' target='_blank'>量化交易基础 - 011 - 样本外检验 - NoMornings</a> - 2023-03-01
+* <a href='https://www.cnblogs.com/nomornings/p/17158006.html' target='_blank'>量化交易基础 - 010 - 拟合 - NoMornings</a> - 2023-02-26
 * <a href='https://www.cnblogs.com/nomornings/p/17153145.html' target='_blank'>量化交易基础 - 009 - 检验 （2） - NoMornings</a> - 2023-02-24
 * <a href='https://www.cnblogs.com/nomornings/p/17149672.html' target='_blank'>量化交易基础 - 007 - 研究 - NoMornings</a> - 2023-02-23
 * <a href='https://www.cnblogs.com/nomornings/p/17146471.html' target='_blank'>量化交易基础 - 008 - 检验 （1） - NoMornings</a> - 2023-02-22
@@ -60,8 +62,6 @@ Other              40 hrs 27 mins  █▓░░░░░░░░░░░░░
 * <a href='https://www.cnblogs.com/nomornings/p/17142609.html' target='_blank'>量化交易基础 - 005 - 订单执行算法 - NoMornings</a> - 2023-02-21
 * <a href='https://www.cnblogs.com/nomornings/p/17139115.html' target='_blank'>量化交易基础 - 004 - 投资组合优化技术 - NoMornings</a> - 2023-02-20
 * <a href='https://www.cnblogs.com/nomornings/p/17129392.html' target='_blank'>量化交易基础 - 003 - 投资组合最优化 - NoMornings</a> - 2023-02-17
-* <a href='https://www.cnblogs.com/nomornings/p/17126747.html' target='_blank'>模型预处理层介绍（3） - IntegerLookup - NoMornings</a> - 2023-02-16
-* <a href='https://www.cnblogs.com/nomornings/p/17125791.html' target='_blank'>模型预处理层介绍（2） - Hashing - NoMornings</a> - 2023-02-16
 <!-- END_SECTION:blog -->
 
 # ⛰️ Streak Stats
