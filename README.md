@@ -53,6 +53,7 @@ Other              41 hrs 54 mins  █▒░░░░░░░░░░░░░
 
 # 📑 Recent Blog
 <!-- START_SECTION:blog -->
+* <a href='https://www.cnblogs.com/nomornings/p/17214130.html' target='_blank'>ValueError: The two structures don't have the same sequence length. Input structure has length 4, while shallow structure has length 3. - NoMornings</a> - 2023-03-14
 * <a href='https://www.cnblogs.com/nomornings/p/17207095.html' target='_blank'>量化交易基础 - 012 - 检验中的假设条件 - NoMornings</a> - 2023-03-11
 * <a href='https://www.cnblogs.com/nomornings/p/17170751.html' target='_blank'>Tf2 ValueError: A merge layer should be called on a list of inputs - NoMornings</a> - 2023-03-02
 * <a href='https://www.cnblogs.com/nomornings/p/17169937.html' target='_blank'>量化交易基础 - 011 - 样本外检验 - NoMornings</a> - 2023-03-01
@@ -62,7 +63,6 @@ Other              41 hrs 54 mins  █▒░░░░░░░░░░░░░
 * <a href='https://www.cnblogs.com/nomornings/p/17146471.html' target='_blank'>量化交易基础 - 008 - 检验 （1） - NoMornings</a> - 2023-02-22
 * <a href='https://www.cnblogs.com/nomornings/p/17145950.html' target='_blank'>量化交易基础 - 006 -  数据类型、来源和清洗 - NoMornings</a> - 2023-02-22
 * <a href='https://www.cnblogs.com/nomornings/p/17142609.html' target='_blank'>量化交易基础 - 005 - 订单执行算法 - NoMornings</a> - 2023-02-21
-* <a href='https://www.cnblogs.com/nomornings/p/17139115.html' target='_blank'>量化交易基础 - 004 - 投资组合优化技术 - NoMornings</a> - 2023-02-20
 <!-- END_SECTION:blog -->
 
 # ⛰️ Streak Stats
