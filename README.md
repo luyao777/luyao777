@@ -42,8 +42,6 @@ Text                63 hrs 11 mins  █▒░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-# 🏹  Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luyao777&theme=vue&bg_color=ffffff)](https://github.com/luyao777/github-readme-activity-graph)
 
 # 🧮 Github Stats
 <div align="center">
