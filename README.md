@@ -29,7 +29,7 @@ Code is cheap, Show me the 🍌. XD
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2021 - To: 06 June 2025
+From: 14 September 2021 - To: 07 June 2025
 
 Total Time: 1,538 hrs 20 mins
 
