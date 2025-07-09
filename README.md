@@ -22,15 +22,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2021 - To: 06 July 2025
+From: 14 September 2021 - To: 07 July 2025
 
-Total Time: 1,564 hrs 53 mins
+Total Time: 1,565 hrs 57 mins
 
-Python              881 hrs 30 mins ██████████████░░░░░░░░░░░   56.33 %
-JSON                245 hrs 13 mins ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+Python              881 hrs 57 mins ██████████████░░░░░░░░░░░   56.32 %
+JSON                245 hrs 48 mins ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
 SQL                 180 hrs 38 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
 Other               79 hrs 20 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Text                74 hrs 57 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Text                74 hrs 58 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
 ```
 
 <!--END_SECTION:waka-->
