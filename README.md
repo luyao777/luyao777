@@ -22,13 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2021 - To: 13 December 2025
+From: 14 September 2021 - To: 14 December 2025
 
-Total Time: 1,707 hrs 11 mins
+Total Time: 1,708 hrs 43 mins
 
-Python              892 hrs 39 mins █████████████░░░░░░░░░░░░   52.29 %
-JSON                296 hrs 10 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
-SQL                 221 hrs 58 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
+Python              892 hrs 39 mins █████████████░░░░░░░░░░░░   52.24 %
+JSON                296 hrs 47 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
+SQL                 222 hrs 42 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
 Other               104 hrs 42 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
 Text                77 hrs 42 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
 ```
