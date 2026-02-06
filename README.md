@@ -1,16 +1,4 @@
 
-# 🍎: Who Am I
-- Name: Yao Lu
-- Email: luyao777@vip.qq.com
-- Location: Shanghai in China
-- Educational Experience：
-  - Undergraduate: Computer Science and Technology, University of Electronic Science and Technology of China
-  - Postgraduate: Computer Application Technology, Renmin University of China
-- Employment Experience:
-  1. Tencent Holdings Limited
-  2. Pinduoduo Inc.
-
-
 # 🐍 Commit Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luyao777/luyao777/output/github-contribution-grid-snake-dark.svg">
